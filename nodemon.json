@@ -1,7 +1,1 @@
-{
-    "env":{
-        "MONGO_CONN_STRING" :"mongodb+srv://boban2020:boban2020@boban2020.mhtk1.mongodb.net/mern2?authSource=admin&replicaSet=atlas-9ox7n6-shard-0&w=majority&readPreference=primary&appname=MongoDB%20Compass%20Beta&retryWrites=true&ssl=true"
 
-
-    }
-}
